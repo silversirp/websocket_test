@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Run websocket server
+```
+node server.mjs
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
