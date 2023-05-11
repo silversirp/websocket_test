@@ -12,7 +12,7 @@ npm run serve
 
 ### Run websocket server
 ```
-node server.mjs
+node index.mjs
 ```
 
 ### Compiles and minifies for production
